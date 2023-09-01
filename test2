@@ -1,2 +1,2 @@
-print("hej")
+print("hej", end=" ")
 print("då")
