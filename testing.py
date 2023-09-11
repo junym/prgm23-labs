@@ -1,3 +1,3 @@
-print("Hello World!")
-a = 23
-print (a)
+name = input("Vad heter du? ")
+
+print("Hello " + name)
