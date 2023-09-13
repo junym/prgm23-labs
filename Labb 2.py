@@ -20,7 +20,7 @@ def beräkna_geo_summa(startvärde_g1, kvoten, antal_tal):
 
 def huvudprogram():
     """Tar emot inputs från användaren om vilket startvärde, differens, kvot och antal tal, 
-    och printar sen ut den aritmetiska respektive geometriska summan samt vilken av summorna som är störst."""
+    och printar sen ut den aritmetiska respektive geometriska summan samt vilken av summorna som är störst eller om de är lika stora."""
     try:
         print("Vi börjar med startvärde och differens för den aritmetiska talföljden:")
         startvärde_a1 = float(input("Vad väljer du för startvärde (a1)? "))
